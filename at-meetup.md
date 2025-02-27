@@ -2,15 +2,15 @@
 
 - Anybody doesn't speak Croatian?
 - Anybody doesn't want photos taken?
-- testival.eu (all the social stuff)
-- meetup 400+, facebook (group 250+, page 150+), twitter (50+), linkedin (50+)
-- Slides at GitHub
-- speakers: t-shirts, webcamp tickets, notebook, looking for job or hiring?
-- Wifi
-- Food
-- Drinks
-- Restroom
-- Sponsors
-- Jobs (talk, sponsor)
-- CoC
-- Testival conference Zabok
+- testival.eu (meetup, slack, mail)
+- Slides will be at GitHub.
+- Venue:
+  - Wifi
+  - Food
+  - Drinks
+  - Restroom
+- Sponsor.
+- Code of conduct. Contact organizers if needed.
+- We are looking for hosts for future meetups.
+- Start with introductions.
+  - Let us know if you are hiring or looking for work.
