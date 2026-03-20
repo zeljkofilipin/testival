@@ -1,0 +1,15 @@
+---
+layout: post
+title: Call for papers
+date: 2010-03-08 23:27:44
+author: banovotz
+categories:
+  - 2010
+---
+
+# ViaQA 10
+
+### a Software Testers' event
+
+## Software Quality Assurance Outsourcing
+Dear colleagues, We would like to encourage you to participate at the upcoming Conference ViaQA 10. Our major topic this year is Software Quality Assurance Outsourcing, but presentations on all aspects of Quality Assurance, Software Testing, Usability Testing... are welcomed. The Conference will be conducted in English and Croatian so we accept your presentation in both languages. Please sumbit your presentations and any question to this email adress: davor.banovic@fiveminutes.eu . For fresh information browse our site [http://testival.diotref.com/](http://testival.diotref.com/) and follow twitter profile [http://twitter.com/5minsqa/](http://twitter.com/5minsqa/) Thank you

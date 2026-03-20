@@ -1,0 +1,10 @@
+---
+layout: post
+title: Schedule 2016
+date: 2016-05-10 09:09:23
+author: banovotz
+categories:
+  - 2016
+---
+
+**We are happy to announce schedule for Testival 2016!** [calendar id="1386"]
