@@ -1,6 +1,7 @@
 title: Testival
 description: Software testing community meetups and conferences
 theme: minima
+permalink: /:year/:month/:day/:title/
 
 exclude:
   - files
