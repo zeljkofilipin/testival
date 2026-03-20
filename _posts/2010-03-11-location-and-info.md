@@ -3,7 +3,7 @@ layout: post
 title: Location and Info
 date: 2010-03-11 15:56:42
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

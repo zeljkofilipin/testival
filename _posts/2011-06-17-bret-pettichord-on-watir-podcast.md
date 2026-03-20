@@ -3,7 +3,7 @@ layout: post
 title: Bret Pettichord on Watir Podcast
 date: 2011-06-17 16:58:02
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

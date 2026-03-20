@@ -3,7 +3,7 @@ layout: post
 title: "Announcing ViaQA 10 workshop 1: Automating web browsers with Watir"
 date: 2010-04-13 16:50:43
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Andreas Tolf Tolfsen: Automated Testing at Opera"
 date: 2011-05-05 23:30:54
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

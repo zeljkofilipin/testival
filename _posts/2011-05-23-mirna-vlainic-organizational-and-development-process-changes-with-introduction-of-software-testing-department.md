@@ -3,7 +3,7 @@ layout: post
 title: "Mirna Vlainić: Organizational and Development Process Changes with Introduction of Software Testing Department"
 date: 2011-05-23 22:22:00
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

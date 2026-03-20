@@ -3,7 +3,7 @@ layout: post
 title: "Valentina Kirinić: Software Product Quality and Evaluation Standards"
 date: 2011-05-30 21:19:31
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

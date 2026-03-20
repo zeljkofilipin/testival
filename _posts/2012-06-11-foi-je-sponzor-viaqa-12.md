@@ -3,7 +3,7 @@ layout: post
 title: FOI je sponzor Viaqa 12
 date: 2012-06-11 17:12:01
 author: banovotz
-categories:
+tags:
   - 2012
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Venue Photos
 date: 2011-02-22 12:59:20
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

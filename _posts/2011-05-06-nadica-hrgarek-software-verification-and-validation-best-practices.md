@@ -3,7 +3,7 @@ layout: post
 title: "Nadica Hrgarek: Software Verification and Validation Best Practices"
 date: 2011-05-06 23:06:19
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

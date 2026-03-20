@@ -3,7 +3,7 @@ layout: post
 title: ViaQA 10 is sponsored by SIEMENS
 date: 2010-06-02 13:24:30
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

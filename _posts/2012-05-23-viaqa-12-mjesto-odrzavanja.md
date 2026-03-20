@@ -3,7 +3,7 @@ layout: post
 title: Viaqa 12 - mjesto održavanja
 date: 2012-05-23 10:04:15
 author: banovotz
-categories:
+tags:
   - 2012
 ---
 

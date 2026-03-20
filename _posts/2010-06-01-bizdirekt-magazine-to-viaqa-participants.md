@@ -3,7 +3,7 @@ layout: post
 title: BIZdirekt magazine to ViaQA participants
 date: 2010-06-01 09:34:44
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

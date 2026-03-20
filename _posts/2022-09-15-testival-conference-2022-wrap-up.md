@@ -3,7 +3,7 @@ layout: post
 title: Testival Conference 2022 - Wrap-up
 date: 2022-09-15 23:00:56
 author: nikomadar
-categories:
+tags:
   - 2022
   - report
 ---

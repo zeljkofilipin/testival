@@ -3,7 +3,7 @@ layout: post
 title: "Vlatko Koaturjak: Application Security Testing"
 date: 2011-03-09 09:09:13
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

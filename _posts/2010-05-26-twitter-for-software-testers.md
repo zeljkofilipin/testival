@@ -3,7 +3,7 @@ layout: post
 title: "Twitter for software testers? Test-up tweet-up!"
 date: 2010-05-26 14:28:08
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

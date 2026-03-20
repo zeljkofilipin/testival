@@ -3,7 +3,7 @@ layout: post
 title: Schedule 2016
 date: 2016-05-10 09:09:23
 author: banovotz
-categories:
+tags:
   - 2016
 ---
 

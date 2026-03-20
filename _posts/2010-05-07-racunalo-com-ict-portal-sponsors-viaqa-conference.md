@@ -3,7 +3,7 @@ layout: post
 title: Racunalo.com ICT portal sponsors ViaQA conference
 date: 2010-05-07 14:28:40
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

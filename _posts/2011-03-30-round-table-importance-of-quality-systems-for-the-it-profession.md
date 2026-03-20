@@ -3,7 +3,7 @@ layout: post
 title: "Round Table: Importance of Quality (Systems) for the IT Profession"
 date: 2011-03-30 11:07:58
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

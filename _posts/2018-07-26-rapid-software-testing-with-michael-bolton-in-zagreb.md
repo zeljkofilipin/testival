@@ -3,7 +3,7 @@ layout: post
 title: Rapid Software Testing with Michael Bolton in Zagreb
 date: 2018-07-26 19:47:38
 author: banovotz
-categories:
+tags:
   - 2018
 ---
 

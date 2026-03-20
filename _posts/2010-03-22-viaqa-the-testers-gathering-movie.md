@@ -3,7 +3,7 @@ layout: post
 title: "ViaQA, The Testers Gathering (movie)"
 date: 2010-03-22 13:45:55
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

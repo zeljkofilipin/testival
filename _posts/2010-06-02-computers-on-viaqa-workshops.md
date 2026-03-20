@@ -3,7 +3,7 @@ layout: post
 title: Computers on ViaQA workshops
 date: 2010-06-02 14:11:36
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Cry, pardon, call for papers"
 date: 2010-03-11 15:37:35
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

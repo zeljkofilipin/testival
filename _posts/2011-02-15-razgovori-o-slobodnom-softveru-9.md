@@ -3,7 +3,7 @@ layout: post
 title: "Razgovori o slobodnom softveru #9"
 date: 2011-02-15 13:00:26
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "ViaQA, who is it for?"
 date: 2010-03-12 14:44:52
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: ViaQA 10 Photos
 date: 2010-06-05 22:17:40
 author: zeljko.filipin
-categories:
+tags:
   - 2010
 ---
 

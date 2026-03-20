@@ -3,7 +3,7 @@ layout: post
 title: Javnim prijevozom do Viaqa
 date: 2013-06-27 11:23:54
 author: banovotz
-categories:
+tags:
   - 2013
 ---
 

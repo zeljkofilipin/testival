@@ -3,7 +3,7 @@ layout: post
 title: Pet Minuta sponzorira Viaqa 12
 date: 2012-06-11 17:07:06
 author: banovotz
-categories:
+tags:
   - 2012
 ---
 

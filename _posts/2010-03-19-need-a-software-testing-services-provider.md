@@ -3,7 +3,7 @@ layout: post
 title: "Need a software testing services provider?"
 date: 2010-03-19 12:42:32
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

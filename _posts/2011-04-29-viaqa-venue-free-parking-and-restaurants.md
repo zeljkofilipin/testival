@@ -3,7 +3,7 @@ layout: post
 title: "viaqa Venue, Free Parking and Restaurants"
 date: 2011-04-29 12:34:52
 author: karlo.smid
-categories:
+tags:
   - 2011
 ---
 

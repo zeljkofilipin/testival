@@ -3,7 +3,7 @@ layout: post
 title: Sponzori Viaqa 13
 date: 2013-06-26 18:15:48
 author: banovotz
-categories:
+tags:
   - 2013
 ---
 

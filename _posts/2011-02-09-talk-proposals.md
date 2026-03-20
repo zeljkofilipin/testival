@@ -3,7 +3,7 @@ layout: post
 title: Talk Proposals
 date: 2011-02-09 19:28:39
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 

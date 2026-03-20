@@ -3,7 +3,7 @@ layout: post
 title: "Registrations for Testival 2025 in Zabok Are Now Open!"
 date: 2025-06-08 11:16:38
 author: 5080pwpadmin
-categories:
+tags:
   - 2025
   - testival
 ---

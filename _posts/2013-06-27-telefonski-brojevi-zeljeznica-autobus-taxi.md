@@ -3,7 +3,7 @@ layout: post
 title: "Telefonski brojevi - ~eljeznica, autobus, taxi"
 date: 2013-06-27 11:39:15
 author: banovotz
-categories:
+tags:
   - 2013
 ---
 

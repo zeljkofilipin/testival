@@ -3,7 +3,7 @@ layout: post
 title: Call for papers
 date: 2010-03-08 23:27:44
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

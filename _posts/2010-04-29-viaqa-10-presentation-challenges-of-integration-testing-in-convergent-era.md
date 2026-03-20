@@ -3,7 +3,7 @@ layout: post
 title: "ViaQA 10 presentation: Challenges of integration testing in convergent era"
 date: 2010-04-29 09:26:38
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Korekcija datuma održavanja Viaqa 13
 date: 2013-06-10 08:18:19
 author: banovotz
-categories:
+tags:
   - 2013
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Venue 2016
 date: 2016-04-27 13:36:32
 author: banovotz
-categories:
+tags:
   - 2016
 ---
 

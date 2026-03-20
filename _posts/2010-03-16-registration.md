@@ -3,7 +3,7 @@ layout: post
 title: Registration
 date: 2010-03-16 23:34:05
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

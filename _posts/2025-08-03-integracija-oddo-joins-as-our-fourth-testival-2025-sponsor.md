@@ -3,7 +3,7 @@ layout: post
 title: "Integracija odđdo Joins as Our Fourth Testival 2025 Sponsor!"
 date: 2025-08-03 17:32:01
 author: 5080pwpadmin
-categories:
+tags:
   - 2025
   - testival
 ---

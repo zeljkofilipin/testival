@@ -3,7 +3,7 @@ layout: post
 title: Testival 15 venue
 date: 2015-05-30 13:04:19
 author: banovotz
-categories:
+tags:
   - 2015
 ---
 

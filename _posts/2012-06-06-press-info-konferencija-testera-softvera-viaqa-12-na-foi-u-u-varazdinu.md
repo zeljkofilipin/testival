@@ -3,7 +3,7 @@ layout: post
 title: "Press info: Konferencija testera softvera Viaqa 12 na FOI-u u Varaždinu"
 date: 2012-06-06 17:48:16
 author: banovotz
-categories:
+tags:
   - 2012
 ---
 

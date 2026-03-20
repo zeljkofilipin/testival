@@ -3,7 +3,7 @@ layout: post
 title: ViaQA 10 has a home
 date: 2010-03-10 16:46:53
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

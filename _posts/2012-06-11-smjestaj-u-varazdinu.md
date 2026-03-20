@@ -3,7 +3,7 @@ layout: post
 title: Smjeataj u Varaždinu
 date: 2012-06-11 17:18:41
 author: banovotz
-categories:
+tags:
   - 2012
 ---
 

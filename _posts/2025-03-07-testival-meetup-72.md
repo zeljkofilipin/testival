@@ -3,7 +3,7 @@ layout: post
 title: "Testival Meetup #72"
 date: 2025-03-07 10:48:13
 author: zeljko.filipin
-categories:
+tags:
   - 2025
 ---
 

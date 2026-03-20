@@ -3,7 +3,7 @@ layout: post
 title: Angelina Gavran - Automated Functional Testing of Ericsson Mobile Health (EMH) Client Web Application
 date: 2011-05-10 12:28:27
 author: karlo.smid
-categories:
+tags:
   - 2011
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Hello world!"
 date: 2010-03-05 09:26:14
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

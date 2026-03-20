@@ -3,7 +3,7 @@ layout: post
 title: "Testival Conference 2022 – Sign-ups are now closed!"
 date: 2022-08-03 08:44:58
 author: nikomadar
-categories:
+tags:
   - 2022
 ---
 

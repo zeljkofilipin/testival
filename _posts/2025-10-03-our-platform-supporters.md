@@ -3,7 +3,7 @@ layout: post
 title: Our Platform supporters
 date: 2025-10-03 12:17:47
 author: 5080pwpadmin
-categories:
+tags:
   - 2025
   - testival
 ---

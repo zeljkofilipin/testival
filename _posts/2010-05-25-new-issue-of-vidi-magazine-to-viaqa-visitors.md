@@ -3,7 +3,7 @@ layout: post
 title: New issue of VIDI magazine to ViaQA participants
 date: 2010-05-25 13:35:01
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

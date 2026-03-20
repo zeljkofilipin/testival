@@ -3,7 +3,7 @@ layout: post
 title: Business event
 date: 2010-05-12 23:30:30
 author: banovotz
-categories:
+tags:
   - 2010
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Racunalo.com
 date: 2011-06-09 21:22:52
 author: zeljko.filipin
-categories:
+tags:
   - 2011
 ---
 
