@@ -16,6 +16,7 @@ This is **not a software project** — there are no build, test, or lint command
 
 ## Conventions
 
+- **Commits:** The user makes all commits. Never offer to commit.
 - **Commit messages** follow the pattern: `meetup: slides from #<number>` (e.g., `meetup: slides from #73`).
 - **Branch:** All work is on `master`.
 - New event materials go into `files/<event-number>/`.
