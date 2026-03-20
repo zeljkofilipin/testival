@@ -1,0 +1,11 @@
+title: Testival
+description: Software testing community meetups and conferences
+theme: minima
+
+exclude:
+  - files
+  - at-meetup.md
+  - at-conference.md
+  - CLAUDE.md
+  - Gemfile.lock
+  - README.md
