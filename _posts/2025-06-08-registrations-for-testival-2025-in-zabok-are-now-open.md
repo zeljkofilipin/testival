@@ -8,23 +8,23 @@ categories:
   - testival
 ---
 
-Were excited to announce that **registrations for Testival 2025 are officially open**! \<
+We’re excited to announce that **registrations for Testival 2025 are officially open**! \<
 
-Join us on **September 2627, 2025 (Friday & Saturday)** at **Regenerator in Zabok** , Croatia for two days of community-driven learning, open discussions, lightning talks, and networking. Whether youre a tester, developer, QA engineer, or just curious about software quality **Testival is for you**.
+Join us on **September 26–27, 2025 (Friday & Saturday)** at **Regenerator in Zabok** , Croatia for two days of community-driven learning, open discussions, lightning talks, and networking. Whether you’re a tester, developer, QA engineer, or just curious about software quality— **Testival is for you**.
 
 [Register for Event](https://lu.ma/event/evt-4FSdVNcNLe4p2uT)
 
-Attendance is **free** , but **registration is required**. Spots are limited, so dont wait too long!
+Attendance is **free** , but **registration is required**. Spots are limited, so don’t wait too long!
 
 * * *
 
-## \> Proudly Sponsored By
+## \>” Proudly Sponsored By
 
-Were grateful for the support of our current sponsors:
+We’re grateful for the support of our current sponsors:
 
 ### = Njuakalo
 
-Croatias leading online marketplace
+Croatia’s leading online marketplace
 
 ![](https://testival.eu/wp-content/uploads/2025/05/njuskalo.png)
 
@@ -44,10 +44,10 @@ Our amazing venue partner in Zabok
 
 ## = Want to Join as a Sponsor?
 
-Were still welcoming **new sponsors** who want to support a grassroots, volunteer-driven tech conference focused on **software testing, quality, and community**.
+We’re still welcoming **new sponsors** who want to support a grassroots, volunteer-driven tech conference focused on **software testing, quality, and community**.
 
-If your company would like to support Testival 2025 and connect with a passionate tech audience, wed love to hear from you!
+If your company would like to support Testival 2025 and connect with a passionate tech audience, we’d love to hear from you!
 
 = Contact us at **[testivaleu@gmail.com](mailto:testivaleu@gmail.com)**
 
-Lets make Testival 2025 the most impactful one yettogether.
+Let’s make Testival 2025 the most impactful one yet—together.

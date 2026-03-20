@@ -15,7 +15,7 @@ At the beginning of every meetup, we like to get to know each other better. Prep
 
 = **Regular talks** (10-30 minutes each)
 
-**Talk 1: Katarina Ragu~:**  **`uaka se auaka kako QA njuaka**
+**” Talk 1: Katarina Ragu~:**  **Šuaka se auaka kako QA njuaka**
 
 Apply for regular talks at testivaleu@gmail.com.
 
@@ -37,4 +37,4 @@ Monday, November 11, 2024
 ## Location
 
 Njuakalo  
-Miroslava Miholia 2 Zagreb
+Miroslava Miholića 2 Zagreb

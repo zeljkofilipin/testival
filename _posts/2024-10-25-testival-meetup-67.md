@@ -21,4 +21,4 @@ Wednesday, October 23, 2024
 ## Location
 
 Caffe Bar Horvati  
-Rudolfa Biania 12 Zagreb
+Rudolfa Bićanića 12 Zagreb

@@ -10,25 +10,25 @@ categories:
 
 ### **\< Meet Our Testival 2025 Keynote Speaker: Irja Straus!**
 
-Were thrilled to announce that **Irja Straus** will be delivering the **keynote talk** at **Testival 2025 in Zabok**!
+We’re thrilled to announce that **Irja Straus** will be delivering the **keynote talk** at **Testival 2025 in Zabok**!
 
-### **=**  **_Back to the Future: Quality Engineering Edition_**
+### **=’**  **_Back to the Future: Quality Engineering Edition_**
 
 Back to the Future: Quality Engineering Edition
 
 Have you ever worried if your testing skills will become obsolete? Here's the thing - while everyone's chasing the latest tools and trends, they're forgetting what actually makes great testers and quality engineers irreplaceable.
 
-Lets hop into our DeLorean, go back to our roots, and explore which skills truly matter for the future. Spoiler alert: it's not about the tools, it's about how we critically think about quality. When it comes to quality, we often fail to determine what it looks like (and for whom), and try to measure the immeasurable because we forget to ask the right questions. In this keynote, we will remind ourselves of our core trio: **risk analysis** , **test design** , and **systems thinking**.
+Let’s hop into our DeLorean, go back to our roots, and explore which skills truly matter for the future. Spoiler alert: it's not about the tools, it's about how we critically think about quality. When it comes to quality, we often fail to determine what it looks like (and for whom), and try to measure the immeasurable because we forget to ask the right questions. In this keynote, we will remind ourselves of our core trio: **risk analysis** , **test design** , and **systems thinking**.
 
 When you equip yourself with critical thinking, no matter what product or challenge comes your way, you will know how to test it!
 
-### **=i = About Irja**
+### **=ič= About Irja**
 
 Irja Straus is a passionate quality consultant who helps teams build confidence in their work through **modern testing and quality engineering practices**. With over 15 years of experience across industries including SaaS, CPaaS, robotics, AI, and U.S. healthcare, she brings both technical depth and a holistic understanding of software quality.
 
-Interestingly, Irja's journey with Testival started long before this keynote. She first joined our community during the early days of the **Zagreb Software Testing Club (STC)**you can even find her in our[Zagreb STC #9 recap](https://blog.tentamen.eu/report-for-zagreb-stc-9/) and her[first talk at STC #18](https://filipin.eu/zagreb-stc-18). Its a joy to welcome her backthis time on stage as our keynote speaker!
+Interestingly, Irja's journey with Testival started long before this keynote. She first joined our community during the early days of the **Zagreb Software Testing Club (STC)**—you can even find her in our[Zagreb STC #9 recap](https://blog.tentamen.eu/report-for-zagreb-stc-9/) and her[first talk at STC #18](https://filipin.eu/zagreb-stc-18). It’s a joy to welcome her back—this time on stage as our keynote speaker!
 
-= Join us at **Testival 2025 in Zabok** , September 2627  
+= Join us at **Testival 2025 in Zabok** , September 26–27  
 \< Register now: [https://testival.eu/registrations-for-testival-2025-in-zabok-are-now-open/](https://testival.eu/registrations-for-testival-2025-in-zabok-are-now-open/)
 
 * * *
@@ -39,6 +39,6 @@ Interestingly, Irja's journey with Testival started long before this keynote. Sh
 
 * * *
 
-## **\> Want to Support Testival?**
+## **\>” Want to Support Testival?**
 
-Were proudly supported by our sponsors: **Regenerator** , **Thespian** , and **Njuakalo** and were still looking for additional sponsors who share our passion for community, quality, and learning.= Contact us at **testivaleu@gmail.com** to get involved!
+We’re proudly supported by our sponsors: **Regenerator** , **Thespian** , and **Njuakalo** —and we’re still looking for additional sponsors who share our passion for community, quality, and learning.= Contact us at **testivaleu@gmail.com** to get involved!

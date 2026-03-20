@@ -15,7 +15,7 @@ At the beginning of every meetup, we like to get to know each other better. Prep
 
 = **Regular talks** (10-30 minutes each)
 
-**Talk 1: Viktor Kvaternjak, Principal Engineer in Test, ReversingLabs**
+**” Talk 1: Viktor Kvaternjak, Principal Engineer in Test, ReversingLabs**
 
 **How Quality Assurance helps build Secure Software?**
 
@@ -40,6 +40,6 @@ Wednesday, January 22, 2025
 
 ReversingLabs
 
-Radni ka cesta 37A (1st floor) Zagreb
+Radnička cesta 37A (1st floor) Zagreb
 
 ![](https://testival.eu/wp-content/uploads/2025/01/IMG_20250122_185807-scaled.jpg)

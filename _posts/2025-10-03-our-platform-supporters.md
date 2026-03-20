@@ -10,8 +10,8 @@ categories:
 
 We would like to thank our supporters who make it possible to keep the Testival community moving forward!
 
-= **[}eljko Filipin](https://www.linkedin.com/in/zeljkofilipin/)** sponsor of our Meetup.com platform, covering the yearly Meetup fee.
+= **[Željko Filipin](https://www.linkedin.com/in/zeljkofilipin/)** – sponsor of our Meetup.com platform, covering the yearly Meetup fee.
 
-= **[Tentamen](https://tentamen.eu/)** our long-time supporter, hosting Testivals WordPress site on the secure Pagely platform.
+= **[Tentamen](https://tentamen.eu/)** – our long-time supporter, hosting Testival’s WordPress site on the secure Pagely platform.
 
-Your support keeps our community connected and growing thank you!
+Your support keeps our community connected and growing – thank you!

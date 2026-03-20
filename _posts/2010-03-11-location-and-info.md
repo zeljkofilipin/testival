@@ -8,7 +8,7 @@ categories:
 ---
 
 http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=212583354650827998398.0004667d0ced2e3e83b4f&ll=45.557814,18.684912&spn=0.009015,0.012875&z=15&output=embed  
-View [Five Minutes ltd](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=212583354650827998398.0004667d0ced2e3e83b4f&ll=45.557814,18.684912&spn=0.009015,0.012875&z=15&source=embed) in a larger map Building of Tehnologijsko razvojni centar (Conference hall, ground floor) Address: Trg Ljudevita Gaja 6, Osijek
+View [Five Minutes ltd](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=212583354650827998398.0004667d0ced2e3e83b4f&ll=45.557814,18.684912&spn=0.009015,0.012875&z=15&source=embed) in a larger map Building of Tehnologijsko – razvojni centar (Conference hall, ground floor) Address: Trg Ljudevita Gaja 6, Osijek
 
 | 
 #### Information:

@@ -15,7 +15,7 @@ At the beginning of every meetup, we like to get to know each other better. Prep
 
 = **Regular talks** (10-30 minutes each)
 
-**Marko Bjelac: Behaviour-driven development without (more) tools**
+” **Marko Bjelac: Behaviour-driven development without (more) tools**
 
 Explaining a take on BDD which 3 people have reached throughout a period of a couple of years of experimentation and striving towards a worry-free feature delivery.
 
@@ -44,4 +44,4 @@ Wednesday, February 26, 2025
 ## Location
 
 Hub 385  
-Petra ieva 4 Zagreb
+Petračićeva 4 Zagreb

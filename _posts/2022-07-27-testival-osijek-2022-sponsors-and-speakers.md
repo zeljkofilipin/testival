@@ -9,9 +9,9 @@ categories:
 
 ## Sponsors
 
-The Testival Conference 2022 is drawing near so its time for an update.
+The Testival Conference 2022 is drawing near so it’s time for an update.
 
-Wed like to take a moment to thank all our sponsors, without whom this conference would not be a reality.
+We’d like to take a moment to thank all our sponsors, without whom this conference would not be a reality.
 
 We would also like to thank [Osijek Software City (OSC)](https://softwarecity.hr/o-projektu/) for all the help with organization and administration.
 
@@ -54,7 +54,7 @@ Marie is currently a Quality Engineering Manager at Zoopla, she is based in the 
 
 ![](https://testival.eu/wp-content/uploads/2022/07/MotMirza.678e56f3.jpg)
 
-[**Mirza `iai**](https://mirzasisic.com/)
+[**Mirza Šiaić**](https://mirzasisic.com/)
 
 Mirza is the organizer and founder of the Ministry of Testing Sarajevo community meetup.
 

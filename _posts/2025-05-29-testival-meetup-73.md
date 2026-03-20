@@ -16,7 +16,7 @@ At the beginning of every meetup, we like to get to know each other better. Prep
 
 = **Regular talks (10-30 minutes each)**
 
-**Oleksiy Slavutskyy, Testing of AI-driven Applications: how to not to fail when testing products with AI under the hood**  
+**”**  **Oleksiy Slavutskyy, Testing of AI-driven Applications: how to not to fail when testing products with AI under the hood**  
 "Testing of AI-driven Applications: how to not to fail when testing products with AI under the hood!" delves into the unique challenges presented by AI/ML-driven applications and strategies to overcome them.
 
 It outlines the various types of AI/ML applications while addressing the key testing difficulties associated with their data, AI layer, and overall system behavior. Additionally, the discussion highlights critical challenges in system testing due to the dynamic and non-deterministic nature of AI-powered ecosystems. To help address these issues, the article evaluates available testing approaches, tools and introduces accelerators that can enhance the testing process by ensuring thorough validation and robustness of AI-infused products.

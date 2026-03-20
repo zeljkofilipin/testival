@@ -12,12 +12,12 @@ categories:
 
 \< **Public Announcement: Testival 2025 is Coming!** \>=
 
-We are thrilled to announce **Testival 2025** , the next edition of Croatias longest-running **community-driven software testing conference**! \<
+We are thrilled to announce **Testival 2025** , the next edition of Croatia’s longest-running **community-driven software testing conference**! \<
 
-= **Date:**  **September 2627, 2025**  
+= **Date:**  **September 26–27, 2025**  
 = **Location:** [Regenerator, Zabok, Croatia](https://re-generator.hr/), [Ulica mladih 2, 49210 Zabok](https://maps.app.goo.gl/N5JWwGktnaEwxaWi7)
 
-\< **Website:** [https://testival.eu](https://testival.eu/)
+\<Đ **Website:** [https://testival.eu](https://testival.eu/)
 
 \> **We are proud to announce that our venue sponsor for this year is Regenerator!** Big thanks to them for supporting our community and helping us make this event possible.
 
@@ -25,7 +25,7 @@ We are thrilled to announce **Testival 2025** , the next edition of Croatias lon
 
 * * *
 
-### = What is Testival?
+### =č What is Testival?
 
 Testival is a free, volunteer-organized conference focused on **software testing** and **quality assurance** , running annually since **2010**. The event brings together professionals, enthusiasts, and curious minds to exchange knowledge, experiences, and innovations in the field of testing.
 
@@ -60,17 +60,17 @@ Testival is **completely free** , but registration is required due to limited sp
 
 * * *
 
-### \> Support Testival Become a Sponsor!
+### \> Support Testival — Become a Sponsor!
 
 As a **completely free and volunteer-driven conference** , Testival relies on the generosity of **sponsors** to cover essential costs like food, drinks, materials, and travel support for speakers.
 
 If your company believes in supporting professional communities, quality software, and open knowledge-sharing, we would love to talk with you!
 
-= **Interested in sponsoring Testival 2025?** Get in touch via our email testivaleu@gmail.com. Lets create something amazing together!
+= **Interested in sponsoring Testival 2025?** Get in touch via our email testivaleu@gmail.com. Let’s create something amazing together!
 
 * * *
 
 = **Join us and be part of a growing, passionate testing community!**  
-Lets learn, connect, and have fun see you at **Testival 2025** in Zabok! \>=
+Let’s learn, connect, and have fun – see you at **Testival 2025** in Zabok! \>=
 
 * * *
