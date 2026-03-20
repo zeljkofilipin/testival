@@ -3,6 +3,8 @@ layout: post
 title: Zagreb Software Testing Club
 date: 2017-04-04 12:13:09
 author: zeljko.filipin
+tags:
+  - testival
 ---
 
 2011

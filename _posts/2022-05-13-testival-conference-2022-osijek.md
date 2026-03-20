@@ -3,6 +3,8 @@ layout: post
 title: Testival Conference 2022 - Osijek
 date: 2022-05-13 15:01:16
 author: nikomadar
+tags:
+  - 2022
 ---
 
 ![](https://testival.eu/wp-content/uploads/2022/05/testival_logo2.png)
