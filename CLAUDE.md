@@ -14,6 +14,10 @@ This is **not a software project** — there are no build, test, or lint command
 - `at-meetup.md` — Checklist/script for running a meetup.
 - `at-conference.md` — Checklist/script for running a conference.
 
+## Development Environment
+
+This repository uses a **devcontainer** (`.devcontainer/devcontainer.json`) with a Jekyll image. The host machine does not have Ruby installed. All commands (Ruby, Bundler, Jekyll, gem, etc.) must be run inside the devcontainer using `docker exec`.
+
 ## Conventions
 
 - **Commits:** The user makes all commits. Never offer to commit.
