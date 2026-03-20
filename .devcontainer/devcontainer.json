@@ -1,0 +1,6 @@
+{
+  "name": "Testival",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+  "postCreateCommand": "bundle install",
+  "forwardPorts": [4000]
+}
