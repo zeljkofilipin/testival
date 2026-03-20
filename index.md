@@ -13,6 +13,7 @@ Software testing community meetups and conferences.
 
 ## Pages
 
+- [Home](/)
 - [Tags](/tags/)
 
 ## Posts
