@@ -4,7 +4,7 @@ title: Shoutout to Testival Zabok 2025 volunteers
 date: 2025-09-29 10:04:55
 author: 5080pwpadmin
 tags:
-  - Uncategorized
+  - 2025
 ---
 
 We would like to do a shoutout to all Testival Zabok 2025 volunteers.

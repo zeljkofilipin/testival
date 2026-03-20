@@ -5,7 +5,6 @@ date: 2025-09-03 13:28:18
 author: 5080pwpadmin
 tags:
   - 2025
-  - testival
 ---
 
 ![](https://testival.eu/wp-content/uploads/2025/09/EPAM_LOGO_Black-1024x361.png)

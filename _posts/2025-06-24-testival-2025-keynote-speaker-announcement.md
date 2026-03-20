@@ -5,7 +5,6 @@ date: 2025-06-24 06:27:34
 author: 5080pwpadmin
 tags:
   - 2025
-  - testival
 ---
 
 ### **\< Meet Our Testival 2025 Keynote Speaker: Irja Straus!**

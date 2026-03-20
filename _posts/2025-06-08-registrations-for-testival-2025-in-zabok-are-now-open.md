@@ -5,7 +5,6 @@ date: 2025-06-08 11:16:38
 author: 5080pwpadmin
 tags:
   - 2025
-  - testival
 ---
 
 We’re excited to announce that **registrations for Testival 2025 are officially open**! \<

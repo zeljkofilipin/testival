@@ -5,7 +5,6 @@ date: 2025-09-04 17:54:12
 author: 5080pwpadmin
 tags:
   - 2025
-  - testival
 ---
 
 = **Friday, 26 September 2025**  
