@@ -6,6 +6,7 @@ author: banovotz
 tags:
   - 2010
   - english
+  - viaqa
 ---
 
 Welcome to ViaQA 10, A Software Testers' Event held in Osijek, Croatia.

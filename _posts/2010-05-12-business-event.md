@@ -6,6 +6,7 @@ author: banovotz
 tags:
   - 2010
   - english
+  - viaqa
 ---
 
 ## ViaQA 10 Business Event is organized in partnership with [Technology development center](http://www.tera.hr/) and [Enterprise Europe Network](http://www.enterprise-europe-network.ec.europa.eu/public/calendar/viewdetails.cfm?EventID=2364&type=future)

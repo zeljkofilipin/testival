@@ -6,6 +6,7 @@ author: zeljko.filipin
 tags:
   - 2011
   - english
+  - viaqa
 ---
 
 Our media sponsors wrote a few articles about the conference (in Croatian): [rep.hr](http://rep.hr/)

@@ -6,6 +6,7 @@ author: banovotz
 tags:
   - 2012
   - hrvatski
+  - viaqa
 ---
 
 **![License Some rights reserved by wackyvorlon](http://farm1.staticflickr.com/4/8758709_f2bcdc9e06_q.jpg "press")**Treća po redu konferencija o testiranju softvera ove godine održat će se 15. lipnja u Varaždinu u InfoKlubu (podrum) Fakulteta Organizacije i Informatike, Pavlinska 2, s početkom u 17.00 sati. Ove godine biti će to mini konferencija s glavnim naglaskom na okrugli stol koji je posvećen obrazovanju testera softvera u Hrvatskoj.

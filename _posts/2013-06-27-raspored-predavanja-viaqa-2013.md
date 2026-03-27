@@ -6,6 +6,7 @@ author: banovotz
 tags:
   - 2013
   - hrvatski
+  - viaqa
 ---
 
 ![viaqa 11](http://testival.diotref.com/wp-content/uploads/2013/06/IMG_372111.jpg)
