@@ -7,6 +7,7 @@ tags:
   - 2022
   - english
   - conference
+  - testival
 ---
 
 [Testival-Sponsors-HR](http://testival.eu/wp-content/uploads/2022/07/Testival-Sponsors-HR.png)[Download](http://testival.eu/wp-content/uploads/2022/07/Testival-Sponsors-HR.png)

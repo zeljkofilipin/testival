@@ -7,6 +7,7 @@ tags:
   - 2025
   - english
   - conference
+  - testival
 ---
 
 We’re excited to announce that **registrations for Testival 2025 are officially open**! \<

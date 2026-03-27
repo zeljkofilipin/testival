@@ -7,6 +7,7 @@ tags:
   - 2025
   - english
   - conference
+  - testival
 ---
 
 ![](https://testival.eu/wp-content/uploads/2025/09/EPAM_LOGO_Black-1024x361.png)

@@ -7,6 +7,7 @@ tags:
   - 2025
   - english
   - conference
+  - testival
 ---
 
 ## = Integracija odđdo Joins as Our Fourth Testival 2025 Sponsor!

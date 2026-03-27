@@ -7,6 +7,7 @@ tags:
   - 2022
   - english
   - conference
+  - testival
 ---
 
 Our impressions of this year's Testival conference have finally settled down.  

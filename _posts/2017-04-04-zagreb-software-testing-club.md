@@ -8,6 +8,7 @@ tags:
   - english
   - software testing club
   - meetup
+  - testival
 ---
 
 2011

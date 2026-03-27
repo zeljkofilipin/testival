@@ -7,6 +7,7 @@ tags:
   - 2025
   - english
   - conference
+  - testival
 ---
 
 We would like to do a shoutout to all Testival Zabok 2025 volunteers.

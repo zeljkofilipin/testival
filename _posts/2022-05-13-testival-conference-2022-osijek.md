@@ -7,6 +7,7 @@ tags:
   - 2022
   - english
   - conference
+  - testival
 ---
 
 ![](https://testival.eu/wp-content/uploads/2022/05/testival_logo2.png)

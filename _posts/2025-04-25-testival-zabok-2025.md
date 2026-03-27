@@ -7,6 +7,7 @@ tags:
   - 2025
   - english
   - conference
+  - testival
 ---
 
 ![](https://testival.eu/wp-content/uploads/2025/04/testival-zabok-06-1024x1024.png)

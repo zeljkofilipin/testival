@@ -7,6 +7,7 @@ tags:
   - 2015
   - english
   - conference
+  - testival
 ---
 
 &nbsp; &nbsp; &nbsp; Testival is supported by: &nbsp; [![toptal_logo](http://deghq.com/wordpress/testival/wp-content/uploads/2015/06/toptal_logo-300x188.jpg)](https://www.toptal.com/)
