@@ -6,6 +6,7 @@ author: 5080pwpadmin
 tags:
   - 2025
   - english
+  - conference
 ---
 
 * * *

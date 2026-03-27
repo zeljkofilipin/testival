@@ -6,6 +6,7 @@ author: 5080pwpadmin
 tags:
   - 2025
   - english
+  - conference
 ---
 
 We’re thrilled to announce that **Njuakalo** , Croatia’s leading online marketplace, is officially joining **Testival 2025** as our **third sponsor**! \<

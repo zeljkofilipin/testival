@@ -6,6 +6,7 @@ author: 5080pwpadmin
 tags:
   - 2025
   - english
+  - conference
 ---
 
 ![](https://testival.eu/wp-content/uploads/2025/04/testival-zabok-06-1024x1024.png)

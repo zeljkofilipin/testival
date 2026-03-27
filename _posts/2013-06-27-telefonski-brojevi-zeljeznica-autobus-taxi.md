@@ -7,6 +7,7 @@ tags:
   - 2013
   - hrvatski
   - viaqa
+  - conference
 ---
 
 ## 

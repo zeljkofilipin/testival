@@ -6,6 +6,7 @@ author: 5080pwpadmin
 tags:
   - 2025
   - english
+  - conference
 ---
 
 ### **\< Meet Our Testival 2025 Keynote Speaker: Irja Straus!**

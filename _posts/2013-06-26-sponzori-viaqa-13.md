@@ -7,6 +7,7 @@ tags:
   - 2013
   - hrvatski
   - viaqa
+  - conference
 ---
 
 Organizacijski odbor konferencije Viaqa zahvaljuje se ovogodianjim sponzorima. Navodimo ih ovdje abecednim redom. Klikom na pojedinu od slika, saznajte neato viae o naaim sponzorima. Joa jednom od srca hvala.

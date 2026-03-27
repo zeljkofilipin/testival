@@ -6,6 +6,7 @@ author: nikomadar
 tags:
   - 2022
   - english
+  - conference
 ---
 
 ## Sponsors

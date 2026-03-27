@@ -6,6 +6,7 @@ author: nikomadar
 tags:
   - 2022
   - english
+  - conference
 ---
 
 Our impressions of this year's Testival conference have finally settled down.  

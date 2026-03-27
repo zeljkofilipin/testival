@@ -7,6 +7,7 @@ tags:
   - 2010
   - english
   - viaqa
+  - conference
 ---
 
 [![Image: Daniel St.Pierre / FreeDigitalPhotos.net](http://testival.diotref.com/wp-content/uploads/2010/03/vintage-telephone.jpg?w=150 "Image: Daniel St.Pierre / FreeDigitalPhotos.net")](http://testival.diotref.com/wp-content/uploads/2010/03/vintage-telephone.jpg "Image: Daniel St.Pierre / FreeDigitalPhotos.net")We announced formal[call for papers](http://testival.diotref.com/call-for-papers/), but we must admit gmail handles the load of your emails with ease. You can really flood us some more to test the performance :) Interesting topics are:

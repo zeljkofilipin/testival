@@ -6,6 +6,7 @@ author: banovotz
 tags:
   - 2016
   - english
+  - conference
 ---
 
 **We are happy to announce schedule for Testival 2016!** [calendar id="1386"]

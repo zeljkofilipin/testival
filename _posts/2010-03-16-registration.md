@@ -7,6 +7,7 @@ tags:
   - 2010
   - english
   - viaqa
+  - conference
 ---
 
 ### Here you can register for ViaQA conference.

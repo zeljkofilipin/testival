@@ -6,6 +6,7 @@ author: banovotz
 tags:
   - 2018
   - english
+  - conference
 ---
 
 Do you want to receive news about the Testival conference? Subscribe to our mailing list below:

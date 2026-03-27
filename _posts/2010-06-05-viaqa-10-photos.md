@@ -7,6 +7,7 @@ tags:
   - 2010
   - english
   - viaqa
+  - conference
 ---
 
 As a final post for this year, take a look at ViaQA 10 photos.See you next year!
