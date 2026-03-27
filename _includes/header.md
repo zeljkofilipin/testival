@@ -13,7 +13,12 @@ Links: [Meetup](https://www.meetup.com/testival/) [GitHub](https://github.com/ze
 {%- endfor -%}
 {%- assign tag_names = tag_names | sort -%}
 Tags:
-{%- for name in tag_names %} [{{ name }}](/tags/#{{ name }})
+{%- for name in tag_names -%}
+{%- for tag in site.tags -%}
+{%- assign tag_str = tag[0] | append: "" -%}
+{%- if tag_str == name %}{% unless forloop.parentloop.first %} \|{% endunless %} [{{ name }}](/tags/#{{ name }}) *({{ tag[1].size }})*
+{%- endif -%}
+{%- endfor -%}
 {%- endfor %}
 
 {% assign authors = "" | split: "" -%}
@@ -24,5 +29,11 @@ Tags:
 {%- endfor -%}
 {%- assign authors = authors | sort -%}
 Authors:
-{%- for author in authors %} [{{ author }}](/authors/#{{ author | slugify }})
+{%- for author in authors -%}
+{%- assign count = 0 -%}
+{%- for post in site.posts -%}
+{%- if post.author == author -%}
+{%- assign count = count | plus: 1 -%}
+{%- endif -%}
+{%- endfor %}{% unless forloop.first %} \|{% endunless %} [{{ author }}](/authors/#{{ author | slugify }}) *({{ count }})*
 {%- endfor %}
