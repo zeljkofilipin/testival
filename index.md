@@ -6,15 +6,9 @@ layout: default
 
 Software testing community meetups and conferences.
 
-## Links
+Links: [Meetup](https://www.meetup.com/testival/) [GitHub](https://github.com/zeljkofilipin/testival)
 
-- [Meetup](https://www.meetup.com/testival/)
-- [GitHub](https://github.com/zeljkofilipin/testival)
-
-## Pages
-
-- [Home](/)
-- [Tags](/tags/)
+Pages: [Home](/) [Tags](/tags/)
 
 ## Posts
 
