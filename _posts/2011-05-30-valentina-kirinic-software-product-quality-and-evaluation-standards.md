@@ -5,9 +5,9 @@ date: 2011-05-30 21:19:31
 author: zeljko.filipin
 tags:
   - 2011
+  - conference
   - english
   - viaqa
-  - conference
 ---
 
 [![Valentina Kirinić](http://testival.diotref.com/wp-content/uploads/2011/05/Valentina_Kirinic11.jpg "Valentina Kirinić")](http://testival.diotref.com/wp-content/uploads/2011/05/Valentina_Kirinic11.jpg) **About the Talk** ([slides](https://docs.google.com/present/edit?id=0AUEvoPk1PsafZGR4enp2MzlfODM3aGZ6ZnNkY2s&hl=en_US)) The talk will cover two initial set of standards: ISO/IEC 9126: Software engineering - Product quality (Parts 1-4: quality model and metrics) and ISO/IEC 14598: Software product evaluation (Parts 1-6). New set of standards (under development) ISO/IEC 25000: Software Engineering - Software product Quality Requirements and Evaluation (SQuaRE) will be presented too. We will (hopefully!) talk/discuss some aspects of using these standards:

@@ -32,11 +32,14 @@ title: "Post Title"
 date: YYYY-MM-DD HH:MM:SS
 author: authorname
 tags:
-  - YYYY
+  - 2025
+  - conference
+  - english
+  - testival
 ---
 ```
 
-Tags are year-based (e.g., `2025`).
+Tags are sorted alphabetically. Common tags: year (`2025`), language (`english`, `hrvatski`), event type (`conference`, `meetup`), era (`testival`, `viaqa`, `software testing club`).
 
 ## Development Environment
 

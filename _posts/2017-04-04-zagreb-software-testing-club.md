@@ -6,8 +6,8 @@ author: zeljko.filipin
 tags:
   - 2017
   - english
-  - software testing club
   - meetup
+  - software testing club
   - testival
 ---
 

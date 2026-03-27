@@ -5,9 +5,9 @@ date: 2010-03-16 23:34:05
 author: banovotz
 tags:
   - 2010
+  - conference
   - english
   - viaqa
-  - conference
 ---
 
 ### Here you can register for ViaQA conference.

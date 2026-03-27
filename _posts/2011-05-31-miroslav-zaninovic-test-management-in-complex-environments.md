@@ -5,9 +5,9 @@ date: 2011-05-31 12:21:14
 author: zeljko.filipin
 tags:
   - 2011
+  - conference
   - english
   - viaqa
-  - conference
 ---
 
 [![Miroslav Zaninović](http://testival.diotref.com/wp-content/uploads/2011/05/Miroslav_Zaninovic1-150x150.jpg "Miroslav Zaninović")](http://testival.diotref.com/wp-content/uploads/2011/05/Miroslav_Zaninovic11.jpg) **About the Talk** ([slides](https://docs.google.com/leaf?id=11Mx-qWij4jdtwlmtpcrmDv2-3r68DGkvlcMczbFi5kXoE3k9nKYlu7Pzczc1&hl=en_US)) Writing and running tests sometimes isn't enough. Managing a small number of test cases, organizing and running them is something that is easy to do and not much attention is given to it. But what if we have tens or even hundreds of test cases? When it comes to complex environments with high number of test cases, managing those tests and reporting on them becomes a priority. A lot of questions arises at that point. How do we manage the scripts? How do we manage the test data? How do we run the tests? Are all tests able to run? Are all of the transactions in my script reversible? What are differences in tests process between classic and agile (Scrum) methodologies? Good test management must answer all those questions. Complex environments are often implemented in more than a few technologies. We will show what steps need to be taken to organize test management in complex environments and how IBM tools helped us in that task. **About the Speaker** Miroslav is Quality Team Leader in the Croz testing centre. Miroslav's experience comes from numerous projects where he worked as a technical lead. All those projects can be described by several key words - quality, functional testing, performance testing, testing methodology, change and configuration management, agile development... Miroslav's specialty is leading complex testing projects where he continually finds new challenges. He is an expert in IBM and HP quality tools. **Links** [linkedin.com/pub/miroslav-zaninović](http://www.linkedin.com/pub/miroslav-zaninovi%C4%87/4/962/599)

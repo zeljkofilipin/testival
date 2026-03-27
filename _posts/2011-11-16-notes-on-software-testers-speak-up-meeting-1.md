@@ -6,8 +6,8 @@ author: zeljko.filipin
 tags:
   - 2011
   - english
-  - software testing club
   - meetup
+  - software testing club
 ---
 
 Karlo Smid and Željko Filipin have blogged on Software Testers Speak Up Meeting #1:

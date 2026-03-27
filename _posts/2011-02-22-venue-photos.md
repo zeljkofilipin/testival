@@ -5,9 +5,9 @@ date: 2011-02-22 12:59:20
 author: zeljko.filipin
 tags:
   - 2011
+  - conference
   - english
   - viaqa
-  - conference
 ---
 
 | [![](https://lh3.googleusercontent.com/_LyAkOKdWBgc/TWOgFKwc8aE/AAAAAAAAIdg/1aOi2EgbvLs/s160-c/Viaqa11.jpg)](https://picasaweb.google.com/zeljko.filipin/Viaqa11?feat=embedwebsite) |

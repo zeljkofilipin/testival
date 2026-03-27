@@ -5,9 +5,9 @@ date: 2010-03-08 23:27:44
 author: banovotz
 tags:
   - 2010
+  - conference
   - english
   - viaqa
-  - conference
 ---
 
 # ViaQA 10

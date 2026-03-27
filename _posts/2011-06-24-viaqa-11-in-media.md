@@ -5,9 +5,9 @@ date: 2011-06-24 16:23:11
 author: zeljko.filipin
 tags:
   - 2011
+  - conference
   - english
   - viaqa
-  - conference
 ---
 
 Our media sponsors wrote a few articles about the conference (in Croatian): [rep.hr](http://rep.hr/)

@@ -5,9 +5,9 @@ date: 2013-06-27 11:23:54
 author: banovotz
 tags:
   - 2013
+  - conference
   - hrvatski
   - viaqa
-  - conference
 ---
 
 ![tramvaj](http://testival.diotref.com/wp-content/uploads/2013/06/img3988170909osijek11.jpg)
