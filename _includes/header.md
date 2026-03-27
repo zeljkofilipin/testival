@@ -4,7 +4,7 @@ Software testing community meetups and conferences.
 
 Links: [Meetup](https://www.meetup.com/testival/) [GitHub](https://github.com/zeljkofilipin/testival)
 
-Pages: [Home](/) [Tags](/tags/) [Authors](/authors/)
+{% include nav.md %}
 
 {% assign tag_names = "" | split: "" -%}
 {%- for tag in site.tags -%}

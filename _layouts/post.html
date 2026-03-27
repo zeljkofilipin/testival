@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% include nav.html %}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -11,19 +13,16 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif %}
     </p>
+    {%- if page.tags.size > 0 %}
+    <p>Tags:
+    {%- for tag in page.tags %} <a href="/tags/#{{ tag }}">{{ tag }}</a>
+    {%- endfor %}
+    </p>
+    {%- endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {%- if page.tags.size > 0 %}
-  <footer>
-    <p>Tags:
-    {%- for tag in page.tags %} <a href="/tags/#{{ tag }}">{{ tag }}</a>
-    {%- endfor %}
-    </p>
-  </footer>
-  {%- endif %}
 
 </article>
