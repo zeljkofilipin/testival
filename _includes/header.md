@@ -14,3 +14,14 @@ Pages: [Home](/) [Tags](/tags/)
 Tags:
 {%- for name in tag_names %} [{{ name }}](/tags/#{{ name }})
 {%- endfor %}
+
+{% assign authors = "" | split: "" -%}
+{%- for post in site.posts -%}
+{%- unless authors contains post.author -%}
+{%- assign authors = authors | push: post.author -%}
+{%- endunless -%}
+{%- endfor -%}
+{%- assign authors = authors | sort -%}
+Authors:
+{%- for author in authors %} {{ author }}
+{%- endfor %}
