@@ -6,6 +6,7 @@ author: zeljko.filipin
 tags:
   - 2025
   - english
+  - meetup
 ---
 
 ## Details

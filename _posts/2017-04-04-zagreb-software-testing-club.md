@@ -7,6 +7,7 @@ tags:
   - 2017
   - english
   - software testing club
+  - meetup
 ---
 
 2011

@@ -6,6 +6,7 @@ author: zeljko.filipin
 tags:
   - 2024
   - english
+  - meetup
 ---
 
 ## Details
