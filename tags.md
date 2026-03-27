@@ -10,7 +10,7 @@ permalink: /tags/
 {% assign tag_name_str = tag[0] | append: "" %}
 {% assign tag_names = tag_names | push: tag_name_str %}
 {% endfor %}
-{% assign tag_names = tag_names | sort | reverse %}
+{% assign tag_names = tag_names | sort %}
 {% for name in tag_names %}
 ## {{ name }}
 

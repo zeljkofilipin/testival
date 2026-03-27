@@ -11,7 +11,7 @@ Pages: [Home](/) [Tags](/tags/) [Authors](/authors/)
 {%- assign tag_name_str = tag[0] | append: "" -%}
 {%- assign tag_names = tag_names | push: tag_name_str -%}
 {%- endfor -%}
-{%- assign tag_names = tag_names | sort | reverse -%}
+{%- assign tag_names = tag_names | sort -%}
 Tags:
 {%- for name in tag_names %} [{{ name }}](/tags/#{{ name }})
 {%- endfor %}
