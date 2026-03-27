@@ -5,6 +5,7 @@ date: 2024-11-15 16:10:33
 author: zeljko.filipin
 tags:
   - 2024
+  - english
 ---
 
 ## Details

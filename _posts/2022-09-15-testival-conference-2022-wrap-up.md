@@ -5,6 +5,7 @@ date: 2022-09-15 23:00:56
 author: nikomadar
 tags:
   - 2022
+  - english
 ---
 
 Our impressions of this year's Testival conference have finally settled down.  

@@ -5,6 +5,7 @@ date: 2025-09-29 10:04:55
 author: 5080pwpadmin
 tags:
   - 2025
+  - english
 ---
 
 We would like to do a shoutout to all Testival Zabok 2025 volunteers.

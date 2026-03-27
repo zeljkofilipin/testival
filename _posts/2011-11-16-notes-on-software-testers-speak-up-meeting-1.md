@@ -5,6 +5,7 @@ date: 2011-11-16 09:54:58
 author: zeljko.filipin
 tags:
   - 2011
+  - english
 ---
 
 Karlo Smid and Željko Filipin have blogged on Software Testers Speak Up Meeting #1:

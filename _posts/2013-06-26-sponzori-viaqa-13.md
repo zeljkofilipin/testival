@@ -5,6 +5,7 @@ date: 2013-06-26 18:15:48
 author: banovotz
 tags:
   - 2013
+  - hrvatski
 ---
 
 Organizacijski odbor konferencije Viaqa zahvaljuje se ovogodianjim sponzorima. Navodimo ih ovdje abecednim redom. Klikom na pojedinu od slika, saznajte neato viae o naaim sponzorima. Joa jednom od srca hvala.

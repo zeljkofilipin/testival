@@ -5,6 +5,7 @@ date: 2011-03-30 11:07:58
 author: zeljko.filipin
 tags:
   - 2011
+  - english
 ---
 
 [![Fakultet organizacije i informatike](http://testival.diotref.com/wp-content/uploads/2011/03/foi11.png "Fakultet organizacije i informatike")](http://www.foi.hr/eng) A few people from [FOI](http://www.foi.hr/eng) (Fakultet organizacije i informatike) have proposed a round table titled Importance of quality (systems) for the IT profession:

@@ -5,6 +5,7 @@ date: 2010-03-11 15:56:42
 author: banovotz
 tags:
   - 2010
+  - english
 ---
 
 http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=212583354650827998398.0004667d0ced2e3e83b4f&ll=45.557814,18.684912&spn=0.009015,0.012875&z=15&output=embed  

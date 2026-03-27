@@ -5,6 +5,7 @@ date: 2025-03-07 10:48:13
 author: zeljko.filipin
 tags:
   - 2025
+  - english
 ---
 
 ## Details

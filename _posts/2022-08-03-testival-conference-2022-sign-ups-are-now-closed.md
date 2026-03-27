@@ -5,6 +5,7 @@ date: 2022-08-03 08:44:58
 author: nikomadar
 tags:
   - 2022
+  - english
 ---
 
 We have reached over 150 sign-ups for this year's Testival Conference in Osijek.   
