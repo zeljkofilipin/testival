@@ -2,7 +2,7 @@
 layout: post
 title: Testival 2015 presentations
 date: 2015-09-24 10:53:27
-author: banovotz
+author: Davor Banović
 tags:
   - 2015
   - conference

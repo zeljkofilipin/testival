@@ -2,7 +2,7 @@
 layout: post
 title: Prijave za Viaqa 2013 su počele
 date: 2013-05-25 10:16:35
-author: banovotz
+author: Davor Banović
 tags:
   - 2013
   - conference

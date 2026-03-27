@@ -2,7 +2,7 @@
 layout: post
 title: "How to spot a tester in a supermarket?"
 date: 2010-04-15 14:27:11
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

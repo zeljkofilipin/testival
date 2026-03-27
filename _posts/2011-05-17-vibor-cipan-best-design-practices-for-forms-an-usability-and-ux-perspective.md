@@ -2,7 +2,7 @@
 layout: post
 title: "Vibor Cipan: Best Design Practices for Forms – an Usability and UX Perspective"
 date: 2011-05-17 00:31:17
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

@@ -2,7 +2,7 @@
 layout: post
 title: Location and Info
 date: 2010-03-11 15:56:42
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

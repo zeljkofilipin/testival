@@ -2,7 +2,7 @@
 layout: post
 title: Zagreb Software Testing Club
 date: 2017-04-04 12:13:09
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2017
   - english

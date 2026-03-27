@@ -2,7 +2,7 @@
 layout: post
 title: "Software Testers Speak Up Meeting #1"
 date: 2011-10-26 12:29:15
-author: karlo.smid
+author: Karlo Šmid
 tags:
   - 2011
   - english

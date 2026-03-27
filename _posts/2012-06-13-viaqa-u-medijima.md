@@ -2,7 +2,7 @@
 layout: post
 title: Viaqa u medijima
 date: 2012-06-13 16:42:51
-author: banovotz
+author: Davor Banović
 tags:
   - 2012
   - conference

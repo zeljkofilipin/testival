@@ -2,7 +2,7 @@
 layout: post
 title: Željko Filipin on Watir
 date: 2011-06-11 14:04:55
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

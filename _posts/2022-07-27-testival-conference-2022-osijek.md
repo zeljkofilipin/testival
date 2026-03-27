@@ -2,7 +2,7 @@
 layout: post
 title: Testival Conference 2022 - Osijek
 date: 2022-07-27 20:32:26
-author: nikomadar
+author: Niko Mađar
 tags:
   - 2022
   - conference

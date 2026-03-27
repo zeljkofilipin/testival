@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #68"
 date: 2024-11-15 16:10:33
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2024
   - english

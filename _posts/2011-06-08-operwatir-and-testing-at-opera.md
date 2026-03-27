@@ -2,7 +2,7 @@
 layout: post
 title: Operwatir and Testing at Opera
 date: 2011-06-08 22:33:23
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

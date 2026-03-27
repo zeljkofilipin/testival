@@ -2,7 +2,7 @@
 layout: post
 title: Schedule 2016
 date: 2016-05-10 09:09:23
-author: banovotz
+author: Davor Banović
 tags:
   - 2016
   - conference

@@ -2,7 +2,7 @@
 layout: post
 title: Racunalo.com medijski pokriva Viaqa 12
 date: 2012-06-13 16:51:27
-author: banovotz
+author: Davor Banović
 tags:
   - 2012
   - conference

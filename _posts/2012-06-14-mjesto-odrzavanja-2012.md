@@ -2,7 +2,7 @@
 layout: post
 title: Mjesto održavanja 2012
 date: 2012-06-14 19:12:22
-author: banovotz
+author: Davor Banović
 tags:
   - 2012
   - conference

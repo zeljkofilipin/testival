@@ -2,7 +2,7 @@
 layout: post
 title: Registration
 date: 2010-03-16 23:34:05
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

@@ -2,7 +2,7 @@
 layout: post
 title: Raspored predavanja - Viaqa 2013
 date: 2013-06-27 14:45:52
-author: banovotz
+author: Davor Banović
 tags:
   - 2013
   - conference

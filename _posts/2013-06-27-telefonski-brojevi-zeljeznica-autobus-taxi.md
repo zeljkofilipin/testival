@@ -2,7 +2,7 @@
 layout: post
 title: "Telefonski brojevi - ~eljeznica, autobus, taxi"
 date: 2013-06-27 11:39:15
-author: banovotz
+author: Davor Banović
 tags:
   - 2013
   - conference

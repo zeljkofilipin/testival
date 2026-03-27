@@ -2,7 +2,7 @@
 layout: post
 title: Testival Conference 2022 - Sponsors and Speakers
 date: 2022-07-27 21:24:33
-author: nikomadar
+author: Niko Mađar
 tags:
   - 2022
   - conference

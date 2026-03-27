@@ -2,7 +2,7 @@
 layout: post
 title: Ericsson Nikola Tesla
 date: 2011-06-01 09:23:43
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

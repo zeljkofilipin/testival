@@ -2,7 +2,7 @@
 layout: post
 title: Sponzori Viaqa 13
 date: 2013-06-26 18:15:48
-author: banovotz
+author: Davor Banović
 tags:
   - 2013
   - conference

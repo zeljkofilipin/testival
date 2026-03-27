@@ -2,7 +2,7 @@
 layout: post
 title: "ViaQA, who is it for?"
 date: 2010-03-12 14:44:52
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

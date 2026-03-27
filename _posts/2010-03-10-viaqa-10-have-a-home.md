@@ -2,7 +2,7 @@
 layout: post
 title: ViaQA 10 has a home
 date: 2010-03-10 16:46:53
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

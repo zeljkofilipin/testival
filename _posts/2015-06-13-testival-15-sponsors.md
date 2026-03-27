@@ -2,7 +2,7 @@
 layout: post
 title: Testival 15 Sponsors
 date: 2015-06-13 15:59:34
-author: banovotz
+author: Davor Banović
 tags:
   - 2015
   - conference

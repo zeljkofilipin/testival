@@ -2,7 +2,7 @@
 layout: post
 title: ViaQA 10 on Enterprise EuropeNetwork
 date: 2010-05-12 14:39:26
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

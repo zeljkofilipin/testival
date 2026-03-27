@@ -2,7 +2,7 @@
 layout: post
 title: "ViaQA, The Testers Gathering (movie)"
 date: 2010-03-22 13:45:55
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

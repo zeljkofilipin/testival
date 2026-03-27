@@ -2,7 +2,7 @@
 layout: post
 title: Sponsor Packages for Testival Conference
 date: 2022-07-27 21:09:26
-author: nikomadar
+author: Niko Mađar
 tags:
   - 2022
   - conference

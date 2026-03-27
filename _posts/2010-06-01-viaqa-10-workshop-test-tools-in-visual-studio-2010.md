@@ -2,7 +2,7 @@
 layout: post
 title: "ViaQA 10 workshop: New testing tools in Visual Studio 2010"
 date: 2010-06-01 16:07:57
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

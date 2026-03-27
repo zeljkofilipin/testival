@@ -2,7 +2,7 @@
 layout: post
 title: BIZdirekt magazine to ViaQA participants
 date: 2010-06-01 09:34:44
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

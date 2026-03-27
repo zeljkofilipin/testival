@@ -2,7 +2,7 @@
 layout: post
 title: Viaqa 12 teaser podcast
 date: 2012-05-22 11:12:04
-author: banovotz
+author: Davor Banović
 tags:
   - 2012
   - conference

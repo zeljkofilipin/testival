@@ -24,5 +24,5 @@ Tags:
 {%- endfor -%}
 {%- assign authors = authors | sort -%}
 Authors:
-{%- for author in authors %} [{{ author }}](/authors/#{{ author }})
+{%- for author in authors %} [{{ author }}](/authors/#{{ author | slugify }})
 {%- endfor %}

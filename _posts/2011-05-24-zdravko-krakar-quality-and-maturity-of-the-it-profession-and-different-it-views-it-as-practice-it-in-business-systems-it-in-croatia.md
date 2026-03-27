@@ -2,7 +2,7 @@
 layout: post
 title: "Zdravko Krakar: Quality and Maturity of the IT Profession, and Different IT Views (IT as Practice; IT in Business Systems; IT in Croatia)"
 date: 2011-05-24 22:57:26
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

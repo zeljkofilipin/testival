@@ -2,7 +2,7 @@
 layout: post
 title: Call for papers
 date: 2010-03-08 23:27:44
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

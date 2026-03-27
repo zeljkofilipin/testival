@@ -2,7 +2,7 @@
 layout: post
 title: Viaqa 11 in Media
 date: 2011-06-24 16:23:11
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

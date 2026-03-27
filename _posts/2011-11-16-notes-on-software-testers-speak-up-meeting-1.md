@@ -2,7 +2,7 @@
 layout: post
 title: "Notes on Software Testers Speak Up Meeting #1"
 date: 2011-11-16 09:54:58
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - english

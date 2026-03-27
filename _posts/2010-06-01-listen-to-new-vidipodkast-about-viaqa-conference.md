@@ -2,7 +2,7 @@
 layout: post
 title: Listen to new Vidipodkast about ViaQA conference
 date: 2010-06-01 09:51:41
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

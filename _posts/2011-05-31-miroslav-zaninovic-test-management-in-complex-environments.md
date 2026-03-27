@@ -2,7 +2,7 @@
 layout: post
 title: "Miroslav Zaninović: Test Management in Complex Environments"
 date: 2011-05-31 12:21:14
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

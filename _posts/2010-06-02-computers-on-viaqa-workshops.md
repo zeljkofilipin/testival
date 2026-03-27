@@ -2,7 +2,7 @@
 layout: post
 title: Computers on ViaQA workshops
 date: 2010-06-02 14:11:36
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

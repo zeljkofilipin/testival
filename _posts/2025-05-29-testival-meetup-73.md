@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #73"
 date: 2025-05-29 15:24:32
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2025
   - english

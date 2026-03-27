@@ -2,7 +2,7 @@
 layout: post
 title: First view of ViaQA logo
 date: 2010-03-20 21:04:32
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

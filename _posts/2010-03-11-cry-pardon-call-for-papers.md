@@ -2,7 +2,7 @@
 layout: post
 title: "Cry, pardon, call for papers"
 date: 2010-03-11 15:37:35
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference

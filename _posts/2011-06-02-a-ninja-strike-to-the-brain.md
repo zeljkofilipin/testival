@@ -2,7 +2,7 @@
 layout: post
 title: A Ninja Strike to the Brain
 date: 2011-06-02 08:28:40
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

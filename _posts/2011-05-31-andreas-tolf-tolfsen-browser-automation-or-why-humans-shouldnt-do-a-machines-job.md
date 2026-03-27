@@ -2,7 +2,7 @@
 layout: post
 title: "Andreas Tolf Tolfsen: Browser Automation – or Why Humans Shouldn't Do a Machine's Job"
 date: 2011-05-31 19:36:18
-author: zeljko.filipin
+author: Željko Filipin
 tags:
   - 2011
   - conference

@@ -2,7 +2,7 @@
 layout: post
 title: Exploratory testing session with Adina Moldovan on Testival 2018
 date: 2018-08-27 09:17:45
-author: banovotz
+author: Davor Banović
 tags:
   - 2018
   - conference

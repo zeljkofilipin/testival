@@ -2,7 +2,7 @@
 layout: post
 title: "Twitter for software testers? Test-up tweet-up!"
 date: 2010-05-26 14:28:08
-author: banovotz
+author: Davor Banović
 tags:
   - 2010
   - conference
