@@ -6,6 +6,7 @@ author: karlo.smid
 tags:
   - 2011
   - english
+  - software testing club
 ---
 
 [Software Testers Speak Up Meeting #1](http://zagorskisoftwaretester.blogspot.com/2011/10/software-testers-speak-up-meeting-1.html) announced at [Zagorski Software Tester](http://zagorskisoftwaretester.blogspot.com/) blog! See you there!
