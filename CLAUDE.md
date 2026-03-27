@@ -40,7 +40,7 @@ Tags are year-based (e.g., `2025`).
 
 ## Development Environment
 
-This repository uses a **devcontainer** (`.devcontainer/devcontainer.json`) with a Jekyll image (`mcr.microsoft.com/devcontainers/jekyll:2-bullseye`). The host machine does not have Ruby installed. All commands (Ruby, Bundler, Jekyll, gem, etc.) must be run inside the devcontainer using `docker exec`. The dev server runs on port 4000.
+This repository uses a **devcontainer** (`.devcontainer/devcontainer.json`) with a Jekyll image (`mcr.microsoft.com/devcontainers/jekyll:2-bullseye`). The host machine does not have Ruby installed. All commands (Ruby, Bundler, Jekyll, gem, etc.) must be run inside the devcontainer using `docker exec`. The dev server runs on port 4000 and automatically rebuilds when files change — no need to restart it.
 
 ## Conventions
 
