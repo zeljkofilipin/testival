@@ -2,7 +2,7 @@
 layout: post
 title: "EPAM is joining Testival 2025 Zabok as our latest sponsor!"
 date: 2025-09-03 13:28:18
-author: 5080pwpadmin
+author: Karlo Šmid
 tags:
   - 2025
   - conference

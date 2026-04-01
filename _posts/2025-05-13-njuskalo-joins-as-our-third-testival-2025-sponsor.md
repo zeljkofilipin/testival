@@ -2,7 +2,7 @@
 layout: post
 title: "Njuakalo Joins as Our Third Testival 2025 Sponsor!"
 date: 2025-05-13 17:54:52
-author: 5080pwpadmin
+author: Karlo Šmid
 tags:
   - 2025
   - conference

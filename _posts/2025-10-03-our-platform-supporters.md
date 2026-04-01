@@ -2,7 +2,7 @@
 layout: post
 title: Our Platform supporters
 date: 2025-10-03 12:17:47
-author: 5080pwpadmin
+author: Karlo Šmid
 tags:
   - 2025
   - english
