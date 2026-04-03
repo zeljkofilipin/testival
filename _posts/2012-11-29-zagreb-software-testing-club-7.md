@@ -2,7 +2,7 @@
 layout: post
 title: "Zagreb Software Testing Club #7"
 date: 2012-11-29 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2012
   - meetup

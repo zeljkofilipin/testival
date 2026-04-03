@@ -2,7 +2,7 @@
 layout: post
 title: "Zagreb Software Testing Club #22"
 date: 2015-10-06 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2015
   - meetup
