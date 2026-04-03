@@ -16,7 +16,7 @@ Tags:
 {%- for name in tag_names -%}
 {%- for tag in site.tags -%}
 {%- assign tag_str = tag[0] | append: "" -%}
-{%- if tag_str == name %}{% unless forloop.parentloop.first %} \|{% endunless %} [{{ name }}](/tags/#{{ name }}) *({{ tag[1].size }})*
+{%- if tag_str == name %}{% unless forloop.parentloop.first %} \|{% endunless %} [{{ name }}](/tags/#{{ name | slugify }}) *({{ tag[1].size }})*
 {%- endif -%}
 {%- endfor -%}
 {%- endfor %}
