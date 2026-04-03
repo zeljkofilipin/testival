@@ -15,7 +15,7 @@ layout: default
     </p>
     {%- if page.tags.size > 0 %}
     <p>Tags:
-    {%- for tag in page.tags %} <a href="/tags/#{{ tag }}">{{ tag }}</a>
+    {%- for tag in page.tags %}{% assign tag_str = tag | append: "" %} <a href="/tags/#{{ tag_str | slugify }}">{{ tag }}</a>
     {%- endfor %}
     </p>
     {%- endif %}
