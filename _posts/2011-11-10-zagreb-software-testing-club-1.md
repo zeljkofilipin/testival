@@ -10,3 +10,7 @@ tags:
 ---
 
 [Meetup](https://blog.tentamen.eu/software-testers-speak-up-meeting-1/) (16)
+
+The gathering aimed to exchange experiences, knowledge and create a community of software testers in Croatia. As an icebreaker, everyone would answer: "What is software testing?"
+
+The invitation extended to interested parties including software developers, emphasizing the goal of amplifying the voice of software testers from this part of Europe.
