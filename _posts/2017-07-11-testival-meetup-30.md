@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #30"
 date: 2017-07-11 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2017
   - meetup

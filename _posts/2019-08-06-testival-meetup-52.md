@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #52"
 date: 2019-08-06 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2019
   - meetup

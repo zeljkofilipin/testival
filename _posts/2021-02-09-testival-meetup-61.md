@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #61 - Online Edition"
 date: 2021-02-09 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2021
   - meetup

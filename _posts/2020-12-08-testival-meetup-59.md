@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #59 - Online Edition"
 date: 2020-12-08 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2020
   - meetup

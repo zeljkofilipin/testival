@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #57"
 date: 2020-02-04 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2020
   - meetup

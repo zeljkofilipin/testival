@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #66"
 date: 2023-04-04 00:00:00
-author: Željko Filipin
+author: Niko Mađar
 tags:
   - 2023
   - meetup

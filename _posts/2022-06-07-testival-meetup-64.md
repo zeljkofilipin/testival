@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #64"
 date: 2022-06-07 00:00:00
-author: Željko Filipin
+author: Niko Mađar
 tags:
   - 2022
   - meetup

@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #48"
 date: 2019-04-23 00:00:00
-author: Željko Filipin
+author: Davor Banović
 tags:
   - 2019
   - meetup

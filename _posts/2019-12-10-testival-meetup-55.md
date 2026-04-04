@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #55"
 date: 2019-12-10 00:00:00
-author: Željko Filipin
+author: Karlo Šmid
 tags:
   - 2019
   - meetup

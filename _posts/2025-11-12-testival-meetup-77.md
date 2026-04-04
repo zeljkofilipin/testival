@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #77"
 date: 2025-11-12 00:00:00
-author: Željko Filipin
+author: Tomislav Prša
 tags:
   - 2025
   - meetup

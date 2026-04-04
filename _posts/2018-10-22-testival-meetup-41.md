@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #41"
 date: 2018-10-22 00:00:00
-author: Željko Filipin
+author: Davor Banović
 tags:
   - 2018
   - meetup

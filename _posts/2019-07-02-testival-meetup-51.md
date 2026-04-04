@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #51"
 date: 2019-07-02 00:00:00
-author: Željko Filipin
+author: Davor Banović
 tags:
   - 2019
   - meetup

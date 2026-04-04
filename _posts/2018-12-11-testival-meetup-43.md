@@ -2,7 +2,7 @@
 layout: post
 title: "Testival Meetup #43"
 date: 2018-12-11 00:00:00
-author: Željko Filipin
+author: Ana Prpić
 tags:
   - 2018
   - meetup
