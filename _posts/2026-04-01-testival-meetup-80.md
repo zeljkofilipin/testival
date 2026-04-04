@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Testival Meetup #80"
-date: 2026-04-15 00:00:00
-author: Željko Filipin
+date: 2026-04-01 00:00:00
+author: Tomislav Prša
 tags:
   - 2026
   - meetup
