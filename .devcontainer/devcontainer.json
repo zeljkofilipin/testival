@@ -1,6 +1,6 @@
 {
   "name": "Testival",
   "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
-  "postCreateCommand": "bundle install",
+  "postCreateCommand": "bundle install && curl -fsSL https://claude.ai/install.sh | bash",
   "forwardPorts": [4000]
 }
